@@ -1,0 +1,11 @@
+.video-item {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+.video-item .img-wrapper {
+  max-width: 150px;
+  margin-right: 0.5rem;
+}
